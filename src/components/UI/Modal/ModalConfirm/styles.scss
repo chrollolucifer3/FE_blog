@@ -1,0 +1,13 @@
+@import "../../../../assets/scss/variables";
+
+.general-dialog-wrap {
+  .ant-modal-content {
+    border-radius: 8px;
+    overflow: hidden;
+
+    .ant-modal-body {
+      padding: 12px;
+      border: 1px solid $colorBorderInput;
+    }
+  }
+}

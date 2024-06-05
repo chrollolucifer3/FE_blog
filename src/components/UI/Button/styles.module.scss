@@ -1,0 +1,21 @@
+@import "src/assets/scss/variables";
+
+.btnWrap {
+  button {
+    min-width: 100%;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    // border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  // .btn {
+  //   // background-color: $colorBackgroundButton;
+  //   // color: $colorBlack;
+  //   // border: 1px solid $colorBlack;
+  // }
+}
